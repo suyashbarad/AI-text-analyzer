@@ -2,13 +2,14 @@
 
 Unlock insights from your text with intelligent analysis, sentiment detection, and actionable suggestions.
 
+---
+
 ## 🚀 Features
 
-- ✨ Real-time text analysis
+- 🔍 Real-time text analysis
 - 🧠 Sentiment detection (Positive, Neutral, Negative)
-- 📌 Actionable suggestions based on text input
-- 🖱️ Interactive and modern UI
-- ⚡ Built with React + TailwindCSS
+- 💡 Actionable suggestions to improve your text
+- ⚡ Smooth and modern UI using React + Tailwind CSS
 
 ---
 
@@ -16,33 +17,34 @@ Unlock insights from your text with intelligent analysis, sentiment detection, a
 
 ### 🔹 Initial Window
 
-![Initial Screen](assets/initial.jpg)
+![Initial Screen](assets/ai-initial-window.jpg)
 
 ### 🔹 Output Example
 
-![Output Screen](assets/output.jpg)
+![Output Screen](assets/ai-output-result.jpg)
 
 ---
 
-## 📦 Tech Stack
+## 🛠 Tech Stack
 
-- **Frontend:** React, TailwindCSS
-- **Libraries:** ShadCN UI, Toast Notifications
-- **Deployment Ready:** Yes
+- **Frontend**: React
+- **Styling**: Tailwind CSS + ShadCN UI
+- **Tooling**: Vite
+- **Language**: JavaScript
 
 ---
 
-## 🛠️ How to Run Locally
+## 📦 How to Run Locally
 
 ```bash
 # Clone the repo
 git clone https://github.com/suyashbarad/AI-text-analyzer.git
 
-# Go to project directory
+# Go into the project directory
 cd AI-text-analyzer
 
 # Install dependencies
 npm install
 
-# Run the development server
+# Start the development server
 npm run dev
